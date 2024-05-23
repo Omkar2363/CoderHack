@@ -6,9 +6,9 @@ This is a RESTful API service built with Spring Boot to manage the leaderboard f
  
 ## Requirements
 
-- Java 8 or higher
-- Gradle
-- MongoDB
+- Java   : Java 8 or higher version required
+- Gradle : Spring Boot Gradle Plugin 3.2.5 used
+- MongoDB: version 6.0.8 used
 
 
 ## Setup 
@@ -43,7 +43,8 @@ To run the application follow the following steps :
 
 A Postman collection has been included to test the API endpoints. Import the collection into Postman and start testing the API.
 
-https://www.postman.com/coderhack-4503/workspace/coderhack/collection/28208818-4dda2964-fde4-42c9-8980-d04947cd6a38?action=share&creator=28208818
+https://www.postman.com/omkar2363/workspace/coderhack/collection/28208818-4dda2964-fde4-42c9-8980-d04947cd6a38?action=share&creator=28208818
+
 ## Testing
 
 The project includes basic JUnit test cases to verify the API operations. You can run the tests using the following command:
