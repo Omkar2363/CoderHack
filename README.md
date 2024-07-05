@@ -43,7 +43,7 @@ To run the application follow the following steps :
 
 A Postman collection has been included to test the API endpoints. Import the collection into Postman and start testing the API.
 
-https://www.postman.com/omkar2363/workspace/coderhack/collection/28208818-4dda2964-fde4-42c9-8980-d04947cd6a38?action=share&creator=28208818
+[Postman Collections Link](https://www.postman.com/omkar2363/workspace/coderhack/collection/28208818-4dda2964-fde4-42c9-8980-d04947cd6a38?action=share&creator=28208818)
 
 ## Testing
 
